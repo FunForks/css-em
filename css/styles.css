@@ -1,0 +1,26 @@
+body {
+  font-size: 16px;
+}
+
+div {
+  border: 1px solid black;
+  margin: 10px;
+  text-align: center;
+}
+
+img {
+  height: 10em;
+}
+
+p {
+  font-size: 1.5em;
+  margin: 0;
+}
+
+#child {
+  font-size: 1.5em;
+}
+
+#grandchild {
+  font-size: 1.5em;
+}
